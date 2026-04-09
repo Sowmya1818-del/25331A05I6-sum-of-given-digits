@@ -9,5 +9,6 @@ int main() {
         number = number / 10;  
     }
     printf("Sum of digits = %d", sum);
+    printf("\n25331A05I6");
     return 0;
 }
